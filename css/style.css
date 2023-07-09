@@ -51,4 +51,8 @@ body{
     border-radius: 5px;
     margin-top: 10px;
 }
-
+.about-img{
+    background: url(assets/person.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
